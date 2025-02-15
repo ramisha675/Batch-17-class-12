@@ -1,0 +1,12 @@
+
+
+<div></div> = division
+comment: ctrl+/ = /*
+           properties:
+                      attributes:
+
+
+
+
+                      margin: take space outside of the box
+                      padding: take space inside of the box
